@@ -4,10 +4,6 @@
 
    - Start XAMPP and ensure that both Apache and MySQL services are running.
 
-   - Open your web browser and go to `http://localhost/phpmyadmin`.
-
-   - Log in to phpMyAdmin (default username: `root`, default password: `''`).
-
    - Create a new database (if it doesn't already exist) for your project.
 
    - Select the newly created database and click on the "Import" tab.
