@@ -12,6 +12,16 @@
 
    - Click "Go" to import the SQL database into your XAMPP MySQL server.
 
+**Start the React Application:**
+
+   - Open a terminal and navigate to the root folder of your React.js project.
+
+   - Install the project dependencies by running:
+
+     ```bash
+     npm install
+     ```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
